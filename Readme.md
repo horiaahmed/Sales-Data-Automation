@@ -44,7 +44,7 @@ flowchart TD
 ```
 ## Workflow Architecture
 
-![Sales Automation Workflow](C:\Users\Mohamed\Desktop\Sales Data Automaton\docs\n8n workflow)
+![Sales Automation Workflow](https://github.com/horiaahmed/Sales-Data-Automation/blob/main/docs/n8n%20workflow.png)
 
 This project implements an automation workflow that:
 
