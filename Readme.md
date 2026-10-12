@@ -42,6 +42,9 @@ flowchart TD
     class H success
     class L,M,N alert
 ```
+## Workflow Architecture
+
+![Sales Automation Workflow](C:\Users\Mohamed\Desktop\Sales Data Automaton\docs\n8n workflow)
 
 This project implements an automation workflow that:
 
