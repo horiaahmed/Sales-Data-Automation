@@ -95,7 +95,6 @@ Core validation, KPI update, and repeated-alert prevention scenarios have been t
 
 ## Repository Contents
 
-- `workflow/` — exported n8n workflow
 - `docs/` — architecture and screenshots
 - `sample-data/` — synthetic test data
 
